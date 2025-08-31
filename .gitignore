@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Build output
+/Debug/
+/Release/
+*.o
+*.d
+*.elf
+*.map
+*.bin
+*.hex
+*.list
+*.lss
+*.srec
+
+# STM32CubeIDE / CubeMX
+/.settings/
+/.project
+/.cproject
+/.mxproject
+/.stm32cubemx
+/STM32CubeIDE/.settings/
+/STM32CubeIDE/.metadata
+
+# IDE'ler
+.vscode/
+.idea/
+
+# Derleme artıkları
+*.su
+*.gcno
+*.gcda

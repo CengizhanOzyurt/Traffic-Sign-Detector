@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Red circle border -->
+  <circle cx="100" cy="100" r="90" fill="#ffffff" stroke="#ff0000" stroke-width="10"/>
+  <!-- Number 30 -->
+  <text x="100" y="130" font-family="Arial" font-size="80" font-weight="bold" text-anchor="middle">30</text>
+</svg>
