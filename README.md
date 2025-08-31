@@ -46,11 +46,11 @@ The model was trained on a custom dataset containing various traffic signs with 
 The system can detect various traffic signs in real-time, as shown in the example images:
 
 1. Speed Limit 30 Detection
-   ![Speed Limit 30](images/speed_limit_30.svg)
+   ![Speed Limit 30](images/IMG_6440.png)
 2. Stop Sign (DUR) Detection
-   ![Stop Sign](images/stop_sign.svg)
+   ![Stop Sign](images/IMG_6442.png)
 3. No Entry Sign Detection
-   ![No Entry](images/no_entry.svg)
+   ![No Entry](images/IMG_6443.png)
 
 ## Model
 The project uses a YOLOv8 model trained on a custom dataset of traffic signs. The model file `bestv8.pt` contains the weights for the trained model.
